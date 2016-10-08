@@ -11,22 +11,67 @@ knitr::opts_chunk$set(echo = TRUE)
 # Build a Poem with commits
 Our project will be done using a sequence of save and commits.
 
-## F"Beware the Jabberwock, my son!
-  The jaws that bite, the claws that catch!
-Beware the Jubjub bird, and shun
-  The frumious Bandersnatch!"
-He took his vorpal sword in hand:
-  Long time the manxome foe he sought --
-So rested he by the Tumtum tree,
-  And stood awhile in thought.
+’Twas brillig, and the slithy toves 
+      Did gyre and gimble in the wabe: 
+All mimsy were the borogoves, 
+      And the mome raths outgrabe. 
+
+“Beware the Jabberwock, my son! 
+      The jaws that bite, the claws that catch! 
+Beware the Jubjub bird, and shun 
+      The frumious Bandersnatch!” 
+
 
 <Put the first two verses of Jabberwocky by Lewis Carrol in this section>
 
 ## Second Verse
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
 <Put the first two verses of The Road Not Taken by Robert Frost here>
 
 ## Third Verse
+
+"The sun was shining on the sea, 
+      Shining with all his might: 
+He did his very best to make 
+      The billows smooth and bright — 
+And this was odd, because it was 
+      The middle of the night. 
+
+The moon was shining sulkily, 
+      Because she thought the sun 
+Had got no business to be there 
+      After the day was done — 
+"It's very rude of him," she said, 
+      "To come and spoil the fun." 
+
 <Put the first two verses of The Walrus and the Carpenter here>
 
 ## Last Verse
+
+That's not my age, it's just not true
+My heart is young, the time just flew
+I'm staring at this strange old face
+and someone else is in my place!
+
+My body's not in disrepair
+I've not much grey in my brown hair
+I sometimes feel a little tired
+But go for jogs when I'm inspired
+
+This age old thing is not for me
+Concessions given, prescriptions free
+I'll just pretend I'm in my prime
+To age too fast would be a crime
+
+
 <Put a short poem of your choice 8-20 lines,here>
