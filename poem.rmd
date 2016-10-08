@@ -11,14 +11,16 @@ knitr::opts_chunk$set(echo = TRUE)
 # Build a Poem with commits
 Our project will be done using a sequence of save and commits.
 
-## F"Beware the Jabberwock, my son!
-  The jaws that bite, the claws that catch!
-Beware the Jubjub bird, and shun
-  The frumious Bandersnatch!"
-He took his vorpal sword in hand:
-  Long time the manxome foe he sought --
-So rested he by the Tumtum tree,
-  And stood awhile in thought.
+## "Beware the Jabberwock, my son!
+
+
+  The jaws that bite, the claws that catch!  
+Beware the Jubjub bird, and shun  
+  The frumious Bandersnatch!"  
+He took his vorpal sword in hand:  
+  Long time the manxome foe he sought --  
+So rested he by the Tumtum tree,  
+  And stood awhile in thought.  
 
 <Put the first two verses of Jabberwocky by Lewis Carrol in this section>
 
